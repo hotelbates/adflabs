@@ -1,0 +1,8 @@
+{
+	"name": "S3toBlobCopy",
+	"properties": {
+		"folder": {
+			"name": "Module 3"
+		}
+	}
+}
